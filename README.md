@@ -84,9 +84,11 @@ https://www.changpuak.ch/electronics/Arduino-DCF77.php
 ////////////////////////////////////////////////////////////// 
 
 ARDUINO/Genuino (UNO) Test/Demo Sketch for Low Frequency
-ASK Synthesizer
-Software Version 2.4, 
+
+ASK Synthesizer Software Version 2.4, 
+
 24.04.2017, Alexander C. Frank
+
 //////////////////////////////////////////////////////////////
 
  * Witch contain traces of German and Italian :)
