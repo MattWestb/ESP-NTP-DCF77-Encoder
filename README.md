@@ -36,17 +36,29 @@
  * Sample Serial out put of around one sec 59:
 
 55 Second, 200 ms = 1
+
 56 Second, 100 ms = 0
+
 57 Second, 100 ms = 0
+
 58 Second, 200 ms = 1
+
 59 Second, No pulse = New Minute. Reading time and calculate the DCF array the next minute.
+
 EZ Date and Time: Mittwoch, 26-Feb-2020 17:22:59 CET
+
 Unix Timestamp: 1582737779
+
 Unix Time + TZ +120 Timestamp: 1582741499
+
 0-00000000000000-000101-00100100-1110100-011001-110-01000-000001001 
+
 0 Second, 100 ms = 0
+
 1 Second, 100 ms = 0
+
 2 Second, 100 ms = 0
+
 3 Second, 100 ms = 0
 
  * For live and historical DCF reference: https://www.dcf77logs.de/live
